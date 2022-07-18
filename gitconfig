@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxhooginweng@gmail.com
+	name = Gin Weng Hoo
